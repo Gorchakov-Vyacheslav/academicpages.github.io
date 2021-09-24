@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Slava Gorchakov"
 title_separator          : "-"
 name                     : &name "Slava Gorchakov"
-description              : &description "personal description"
+description              : &description Junior Data Scientist
 url                      : https://gorchakov-vyacheslav.github.io/gorchakov_v.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Gorchakov-Vyacheslav/gorchakov_v.github.io"
