@@ -3,8 +3,6 @@ main:
     
   - title: "CV"
     url: /cv/
-  - title: "Experience"
-    url: /experience/
 
   - title: "Conferences"
     url: /conferences/    
