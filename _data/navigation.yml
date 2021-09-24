@@ -4,16 +4,16 @@ main:
   - title: "CV"
     url: /cv/
   - title: "Experience"
-    url: /publications/
+    url: /experience/
 
   - title: "Conferences"
-    url: /talks/    
+    url: /conferences/    
 
   - title: "News"
-    url: /teaching/    
+    url: /news/    
            
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /posts/
     
   - title: "Teaching"
-    url: /markdown/
+    url: /teaching/
