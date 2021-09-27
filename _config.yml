@@ -74,8 +74,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/gorchakovv/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -84,7 +84,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : https://www.youtube.com/channel/UC1uHZnZPsxDpSYlerkdTvXA
+  youtube          : "https://www.youtube.com/channel/UC1uHZnZPsxDpSYlerkdTvXA"
   wikipedia        :
 
 
