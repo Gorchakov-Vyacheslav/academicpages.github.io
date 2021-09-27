@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Professor's assistant at SQL course"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Netology Group"
 date: 2015-01-01
-location: "City, Country"
+location: "Moscow, Russia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I worked as assistant at PostgreSQL course at Netology. Netology Group is a Russia-based holding of educational companies providing a variety of learning programs for students of various ages, covering a lifecycle of 10-15 years. I mentored students, checked SQL-assignments and advised on SQL issues
