@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-![Hi](/images/фото 1.png)
+(/images/фото 1.png)
 
 I am a fourth-year student at Moscow Institute of Physics and Technology (Computer Science track). My passion is data analysis, mathematical optimization and modelling.
 
