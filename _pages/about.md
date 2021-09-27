@@ -16,3 +16,5 @@ I am a junior Data Scientist at Ozon and researcher at MIPT and Skoltech laborat
 
 
 Apart from academia and data science, I am passionate about helping schoolchildren with admission to the best Russian technical universities. Checkout my [Youtube channel](https://www.youtube.com/channel/UC1uHZnZPsxDpSYlerkdTvXA) (in Russian).
+
+Also I am a big fan of football, therefore I play at MIPT football team and [here](https://mipt.nagradion.ru/player/335569) is my statistics.
