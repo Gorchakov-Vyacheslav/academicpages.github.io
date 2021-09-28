@@ -59,7 +59,7 @@ author:
   bio              : "Junior Data Scientist"
   location         : "Moscow,Russia"
   employer         :
-  email            : gorchakov.vv@phystech.edu
+  email            : "gorchakov.vv@phystech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -68,13 +68,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Gorchakov-Vyacheslav"
+  github           : "vgorchakov"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gorchakovv/"
+  linkedin         : "https://www.linkedin.com/in/gorchakovv"
   orcid            : 
   pinterest        :
   soundcloud       :
